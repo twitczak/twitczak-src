@@ -1,0 +1,40 @@
+{
+  "name": "twitczak",
+  "version": "1.0.0",
+  "description": "twitczak site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/pkobylanski/twitczak.git"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "pkobylanski",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/pkobylanski/twitczak#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "plyr": "^3.1.0",
+    "popper.js": "^1.14.3",
+    "swiper": "^4.2.2"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-gm": "0.0.9",
+    "gulp-html-i18n": "^0.10.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-order": "^1.1.1",
+    "gulp-sass": "^3.1.0",
+    "merge-stream": "^1.0.1"
+  }
+}

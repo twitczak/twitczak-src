@@ -1,0 +1,27 @@
+{
+  "title": "About Me",
+  "i_am": "I am a graduated composer, I work in the field of music production and sound design.",
+  "1": {
+    "description": "I am a member of the Uklad Formalny theatre, I compose for theater, films, computer games, commercials.",
+    "awards":"Awards",
+    "festivals":"Festivals",
+    "content_l": "Polish Radio Programme Two – 80th birthday  Composition Competition<br>The Frost School of Music The Other Composition Competition<br>The First Leo Festival Composition Competition<br>Composition Competition by the 5th C.M von Weber bassoon contest.<br>Media Festival – Man in Danger – Grand Prix<br>ARRI IDFA Award for Best Student Documentary<br>Independent Theatre Festival GARDEROBA Grand Prix<br>",
+    "content_r": "Leo Festival<br>Art of Improvisation<br>CRONOGRAF<br>Musica Electronica Nova<br>Ukraine Film festival.<br>São Paulo International Film Festival<br>Visions Du Reel<br>Warsaw Autumn<br>International Documentary Days<br>International Film Festival One World in Slovakia<br>HumanDOC<br>Doc Against Gravity<br>Media Festival – Man in Danger<br>"
+  },
+  "curio": {
+    "a_few_curiosities_about_me": "Did you know, that...?",
+    "1": {
+      "description": "Every day in the Polish Radio Channel Two, you can hear my jingle (in the „<a class='b-text' href='https://www.polskieradio.pl/8/382/' target='_blank'>Fantazja Polska</a>” broadcast)."
+    },
+    "2": {
+      "description": "Last time at a game jam I did a game about <a class='b-text' href='https://gruszka.itch.io/the-pickles-in-a-pickle' target='_blank'>pickles</a>."
+    },
+    "3": {
+      "description": "After graduation I have broadened my  audio skills and knowledge in the <a class='b-text' href='https://www.facebook.com/ballroomstudiosdresden/' target='_blank'>Ballroom Studios</a>."
+    },
+    "4": {
+      "description": "I totally suck at Mario Bros.<br>(I don’t know why, but I can’t deal even with the first level)."
+    }
+  }
+
+}

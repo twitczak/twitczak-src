@@ -1,0 +1,5 @@
+{
+  "title": "Hello",
+  "excerpt": "I am a composer, in my everyday work I deal with film and theatre music.",
+  "content": "What excites me in working with sound is that each new project lets me continuously move my work from one style to the next one:<br>beginning with <div class='simple-sound-player' data-src='/assets/sounds/home/Wycieczka_OST_Overture_short.mp3' data-label='orchestral music' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div>, through the <div class='simple-sound-player' data-src='/assets/sounds/home/Slowo_na_G_OST_80s_Horror_story_short.mp3' data-label='80’s horror' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div> style (I adore disturbed synths), rhytmic (and dark) <div class='simple-sound-player' data-src='/assets/sounds/home/Dark_Minimal_short.mp3' data-label='minimal' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div>, to chamber music – <div class='simple-sound-player' data-src='/assets/sounds/home/Odbicie_OST_Raindrops_short.mp3' data-label='mellow piano' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div>? Here you go!"
+}

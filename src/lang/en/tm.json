@@ -1,0 +1,22 @@
+{
+  "title": "Theatre Music",
+  "menu_title": "Theatre",
+  "1": {
+    "title": "#[+#@!? (the 'G' word)"
+  },
+  "2": {
+    "title": "A Treatise on Androids - God Hates Poland",
+    "description": "Based on a novel „God Hates Poland” by Michal Radomir Wisniewski."
+  },
+  "3": {
+    "title": "The Other Spieces"
+  },
+  "4": {
+    "title": "Too Late",
+    "description": "Based on a novels „Too Late” by Giovanna Zoboli and „Ony” by Marta Gusniowska."
+  },
+  "5": {
+    "title": "A Monster Calls",
+    "description": "Based on a novel „A Monster Calls” written by Patrick Ness."
+  }
+}

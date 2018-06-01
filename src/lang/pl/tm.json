@@ -1,0 +1,22 @@
+{
+  "title": "Muzyka teatralna",
+  "menu_title": "Teatr",
+  "1": {
+    "title": "#[+#@!? (słowo na G)"
+  },
+  "2": {
+    "title": "Traktat o androidach - God hates Poland",
+    "description": "Na podstawie powieści „God Hates Poland” Michała Radomira Wiśniewskiego."
+  },
+  "3": {
+    "title": "Inne Gatunki"
+  },
+  "4": {
+    "title": "Zbyt późno",
+    "description": "Spektakl na podstawie powieści „Zbyt późno” Giovanny Zoboli i „Ony”  Marty Guśniowskiej."
+  },
+  "5": {
+    "title": "Siedem minut po północy",
+    "description": "Na podstawie powieści „Siedem minut po północy” Patricka Nessa."
+  }
+}

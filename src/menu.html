@@ -1,0 +1,70 @@
+<div id="left-menu">
+  <div id="main-anchors" class="middle">
+    <div data-id="home" class="active dark">
+      home
+      <div>01</div>
+    </div>
+    <div data-id="fm" class="dark">
+      ${{fm.menu_title}}$
+      <div>02</div>
+    </div>
+    <div data-id="tm" class="dark">
+      ${{tm.menu_title}}$
+      <div>03</div>
+    </div>
+    <div data-id="other" class="dark">
+      ${{other.title}}$
+      <div>04</div>
+    </div>
+    <div data-id="am" class="dark">
+      ${{am.title}}$
+      <div>05</div>
+    </div>
+    <div data-id="contact" class="dark">
+      ${{contact.title}}$
+      <div>06</div>
+    </div>
+  </div>
+  <div class="bottom">
+    <div class="dark"><i class="material-icons">arrow_downward</i></div>
+    <div class="dark">scroll</div>
+  </div>
+</div>
+<div id="main-menu" class="collapse dark">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
+    <div class="menu-close-ico"></div>
+    <span>zamknij</span>
+  </button>
+  <div class="container-tw">
+    <ul>
+      <li data-id="home" class="active"><span>01 Home</span></li>
+      <li data-id="fm">
+        <span>02 ${{fm.title}}$</span>
+        <!--
+        <ul>
+          <li data-id="fm-1"><span>${{fm.1.title}}$</span></li>
+          <li data-id="fm-2"><span>${{fm.2.title}}$</span></li>
+          <li data-id="fm-3"><span>${{fm.3.title}}$</span></li>
+        </ul>
+        -->
+      </li>
+      <li data-id="tm">
+        <span>03 ${{tm.title}}$</span>
+        <!--
+        <ul>
+          <li data-id="tm-1"><span>${{tm.1.title}}$</span></li>
+          <li data-id="tm-2"><span>${{tm.2.title}}$</span></li>
+          <li data-id="tm-3"><span>${{tm.3.title}}$</span></li>
+          <li data-id="tm-4"><span>${{tm.4.title}}$</span></li>
+          <li data-id="tm-5"><span>${{tm.5.title}}$</span></li>
+        </ul>
+        -->
+      </li>
+      <li data-id="other"><span>04 ${{other.title}}$</span></li>
+      <li data-id="am"><span>05 ${{am.title}}$</span></li>
+      <li data-id="contact"><span>06 ${{contact.title}}$</span></li>
+    </ul>
+  </div>
+</div>
+
+

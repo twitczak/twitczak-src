@@ -1,0 +1,133 @@
+g-links*,
+*:after,
+*:before {
+  box-sizing             : border-box;
+  -webkit-box-sizing     : border-box;
+  -moz-box-sizing        : border-box;
+  -webkit-font-smoothing : antialiased;
+  -moz-font-smoothing    : antialiased;
+  -o-font-smoothing      : antialiased;
+  font-smoothing         : antialiased;
+  text-rendering         : optimizeLegibility;
+
+}
+
+.sp-wrapper {
+
+  display: inline-block;
+  padding-right: 25px;
+
+  &:not(.text-bottom) span {
+    padding-left: 10px;
+  }
+
+  &.text-bottom {
+    display: inline-block;
+    margin-right: 50px;
+  }
+
+}
+
+.sound-player {
+
+  display: inline-block;
+  margin: 20px auto;
+  vertical-align: middle;
+  text-align: center;
+
+  .text-bottom & {
+    display: block;
+  }
+
+  .sp-wrapper & {
+
+  }
+
+  :hover {
+    cursor: pointer;
+  }
+
+  .control {
+    opacity: 0; /* transition: opacity .2s linear; */
+    pointer-events: none;
+    cursor: pointer;
+  }
+
+  .not-started .play,
+  .paused .play {
+    opacity: 1;
+  }
+
+  .playing {
+    .pause {
+      opacity: 1;
+    }
+    .play {
+      opacity: 0;
+    }
+  }
+
+  .ended .stop {
+    opacity: 1;
+    pointer-events: none;
+  }
+
+  .precache-bar .done {
+    opacity: 0;
+  }
+
+  .not-started .progress-bar,
+  .ended .progress-bar {
+    display: none;
+  }
+
+  .ended .progress-track {
+    stroke-opacity: 1;
+  }
+
+  .progress-bar,
+  .precache-bar {
+    transition: stroke-dashoffset 500ms;
+
+    stroke-dasharray: 298.1371428256714;
+    stroke-dashoffset: 298.1371428256714;
+  }
+
+  div.section.dark & .progress-track,
+  div.section.dark & .control.pause line {
+    stroke: $color-secondary;
+  }
+
+  div.section.dark & .precache-bar{
+    stroke: $color-primary;
+  }
+
+
+  div.section.dark & .control.play polygon {
+    fill: $color-secondary;
+  }
+
+}
+
+
+// Video player
+.plyr__control--overlaid {
+  height: 70px;
+  width: 70px;
+  padding: 0;
+  svg {
+    display: none;
+  }
+  background: url("/assets/images/play_video.png") no-repeat;
+  &:hover {
+    background: url("/assets/images/play_video.png") no-repeat;
+  }
+}
+
+.plyr--full-ui input[type=range] {
+  color: $color-active;
+}
+
+.plyr--video .plyr__controls .plyr__control:hover {
+  background: $color-active;
+}

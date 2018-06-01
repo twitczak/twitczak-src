@@ -1,0 +1,5 @@
+{
+  "title": "Cześć",
+  "excerpt": "jestem kompozytorem, na co dzień zajmuję się<br>muzyką filmową i teatralną.",
+  "content": "W pracy z dźwiękiem bawi mnie to, że w każdym projekcie mogę skupić się na innej stylistyce:<br>od muzyki <div class='simple-sound-player' data-src='/assets/sounds/home/Wycieczka_OST_Overture_short.mp3' data-label='orkiestrowej' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div>, przez <div class='simple-sound-player' data-src='/assets/sounds/home/Slowo_na_G_OST_80s_Horror_story_short.mp3' data-label='horror' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div> z lat 80 (uwielbiam rozstrojone syntezatory),  rytmiczny (i trochę mroczny) <div class='simple-sound-player' data-src='/assets/sounds/home/Dark_Minimal_short.mp3' data-label='minimal' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div>, po muzykę kameralną – nastrojowy <div class='simple-sound-player' data-src='/assets/sounds/home/Odbicie_OST_Raindrops_short.mp3' data-label='fortepian' data-play='${{common.play}}$' data-pause='${{common.pause}}$'></div>?  proszę bardzo!"
+}

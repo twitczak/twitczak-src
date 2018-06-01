@@ -1,0 +1,27 @@
+{
+  "title": "O mnie",
+  "i_am": "Z wykształcenia jestem kompozytorem, aktywnie działam na polu produkcji muzycznej i sound designu.",
+  "1": {
+    "awards":"Nagrody",
+    "festivals":"Festiwale",
+    "description": "Współtworzę teatr Układ Formalny, pracuję nad muzyką do filmów, gier komputerowych, materiałów reklamowych.",
+    "content_l": "Konkurs Kompozytorski z okazji 80-lecia Programu Drugiego Polskiego Radia<br>The Frost School of Music The Other Composition Competition<br>The First Leo Festival Composition Competition<br>Composition Competition by the 5th C. M. von Weber basson contest.<br>Festiwal Mediów Człowiek w Zagrożeniu<br>ARRI IDFA Award for Best Student Documentary<br>Grand Prix XIX Festiwalu Teatrów Niezależnych GARDEROBA<br>",
+    "content_r": "Leo Festival<br>Art of Improvisation<br>CRONOGRAF<br>Musica Electronica Nova<br>Ukraina – Festiwal filmowy.<br>São Paulo International Film Festival<br>Visions Du Reel<br>Warszawska Jesień<br>International Documentary Days<br>International Film Festival One World in Slovakia<br>HumanDOC<br>Doc Against Gravity<br>Festiwal Mediów Człowiek w Zagrożeniu<br>Festiwal Małych Prapremier<br>"
+  },
+  "curio": {
+    "a_few_curiosities_about_me": "Czy wiesz, że...?",
+    "1": {
+      "description": "Codziennie w  Programie Drugim Polskiego Radia  <br>możesz usłyszeć mój dżingiel (w audycji „<a class='b-text' href='https://www.polskieradio.pl/8/382/' target='_blank'>Fantazja Polska</a>”)."
+    },
+    "2": {
+      "description": "Ostatnio na game jamie zrobiłem grę o <a class='b-text' href='https://gruszka.itch.io/the-pickles-in-a-pickle' target='_blank'>ogórkach kiszonych</a>."
+    },
+    "3": {
+      "description": "Dokształcałem się w zakresie produkcji muzycznej, realizacji i obróbce nagrań w <a class='b-text' href='https://www.facebook.com/ballroomstudiosdresden/' target='_blank'>Ballroom Studios</a> w Dreźnie."
+    },
+    "4": {
+      "description": "Kompletnie nie potrafię grać w Super Mario. <br>(nie radzę sobie nawet z 1 poziomem)."
+    }
+  }
+
+}

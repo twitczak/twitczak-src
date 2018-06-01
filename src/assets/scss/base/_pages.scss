@@ -1,0 +1,54 @@
+#home{
+  min-height: 100vh;
+  background: url("../images/bg_home.jpg") no-repeat;
+  background-size: cover;
+  padding: 150px 0 50px;
+  .title {
+    margin: 100px 0 50px 0;
+  }
+}
+
+.section.am {
+  padding-top: 50px;
+}
+
+#am-1{
+  background: $bg-secondary url("../images/am/bg_about_me.jpg") no-repeat 90%;
+  background-size: cover;
+
+  .row:last-child .content {
+    font-size: 12px;
+    line-height: 25px;
+  }
+}
+
+#am-2{
+  background-color: $bg-third;
+  .sound-player {
+    margin-bottom: 0;
+  }
+}
+
+#am-5{
+  background: $bg-secondary url("../images/am/bg_supermario.jpg") no-repeat 0 90%;
+  background-size: cover;
+}
+
+.am:nth-child(n+2) {
+  min-height: 500px;
+  padding-bottom: 50px;
+}
+
+#contact {
+
+  min-height: 100vh;
+  .content {
+    font-size: $font-size-third;
+    line-height: auto;
+
+    div {
+      margin: 35px 0;
+    }
+  }
+
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Muzyka filmowa",
+  "menu_title": "Film",
+  "1": {
+    "title": "Odbicie",
+    "description": "Chłodnego sierpniowego poranka Waleria jedzie wraz ze swoją córką Martyną do Wiednia. Nastolatka ma spędzić tam resztę swoich wakacji wraz ze swoim ojcem. Podczas podróży ich relacje zaczynają się komplikować."
+  },
+  "2": {
+    "title": "Wycieczka",
+    "description": "Andrzej i Joanna spędzają urlop poszukując ruin kościoła, w którym podczas wojny przetrzymywani byli jeńcy. Podczas poszukiwań spotykają Annę, ta ofiaruje im pomoc."
+  },
+  "3": {
+    "title": "Kiedy ten wiatr ustanie",
+    "description": "Film opowiada o krymsko-tatarskiej rodzinie żyjącej na terenie okupowanego Krymu. Cztery osobiste historie skupiają w sobie jak w soczewce rozległe doświadczenia ludzi żyjących pod presją politycznego reżimu. Trudności, jakie dotykają rodzinę, dotyczą szerszej społeczności i wywołują silne emocje. Głównym motywem filmu nie jest jednak reżim sam w sobie, ale jego konsekwencje rzutujące na los zwykłych ludzi, którzy po prostu chcą żyć, kochać i mieć rodzinę."
+
+  }
+}
